@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/4b7aab675e9849d68014ca4937e64786/artifacts
+end_time: 1688825061663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b7aab675e9849d68014ca4937e64786
+run_name: delicate-cub-141
+run_uuid: 4b7aab675e9849d68014ca4937e64786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688825061576
+status: 3
+tags: []
+user_id: Neeta Devke

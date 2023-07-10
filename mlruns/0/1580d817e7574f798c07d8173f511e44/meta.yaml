@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/1580d817e7574f798c07d8173f511e44/artifacts
+end_time: 1688825718332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1580d817e7574f798c07d8173f511e44
+run_name: gregarious-cat-301
+run_uuid: 1580d817e7574f798c07d8173f511e44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688825718249
+status: 3
+tags: []
+user_id: Neeta Devke

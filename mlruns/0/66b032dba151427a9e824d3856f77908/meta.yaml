@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/66b032dba151427a9e824d3856f77908/artifacts
+end_time: 1688825835173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66b032dba151427a9e824d3856f77908
+run_name: bedecked-goose-272
+run_uuid: 66b032dba151427a9e824d3856f77908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688825835084
+status: 3
+tags: []
+user_id: Neeta Devke
