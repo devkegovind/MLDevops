@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/d5138561608440b28f62cb8e0332cf4c/artifacts
+end_time: 1689065498301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5138561608440b28f62cb8e0332cf4c
+run_name: silent-crab-237
+run_uuid: d5138561608440b28f62cb8e0332cf4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689065492117
+status: 3
+tags: []
+user_id: Neeta Devke

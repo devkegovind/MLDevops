@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/645c554098be486782287d4f36b6743a/artifacts
+end_time: 1689060700396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 645c554098be486782287d4f36b6743a
+run_name: clumsy-gull-889
+run_uuid: 645c554098be486782287d4f36b6743a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689060692259
+status: 3
+tags: []
+user_id: Neeta Devke

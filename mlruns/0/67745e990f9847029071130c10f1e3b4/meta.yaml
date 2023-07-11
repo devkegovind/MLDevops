@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/67745e990f9847029071130c10f1e3b4/artifacts
+end_time: 1689065390182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67745e990f9847029071130c10f1e3b4
+run_name: fearless-stag-203
+run_uuid: 67745e990f9847029071130c10f1e3b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689065385320
+status: 3
+tags: []
+user_id: Neeta Devke

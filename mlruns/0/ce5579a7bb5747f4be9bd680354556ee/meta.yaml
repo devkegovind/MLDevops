@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/ce5579a7bb5747f4be9bd680354556ee/artifacts
+end_time: 1689065464604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce5579a7bb5747f4be9bd680354556ee
+run_name: shivering-hog-10
+run_uuid: ce5579a7bb5747f4be9bd680354556ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689065458285
+status: 3
+tags: []
+user_id: Neeta Devke

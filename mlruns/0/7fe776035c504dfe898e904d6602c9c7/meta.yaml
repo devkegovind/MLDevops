@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/7fe776035c504dfe898e904d6602c9c7/artifacts
+end_time: 1689065453098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fe776035c504dfe898e904d6602c9c7
+run_name: omniscient-moth-66
+run_uuid: 7fe776035c504dfe898e904d6602c9c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689065445022
+status: 3
+tags: []
+user_id: Neeta Devke

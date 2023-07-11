@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/48dd9fdc6eb147c9803ce89cf268c18d/artifacts
+end_time: 1689065425552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48dd9fdc6eb147c9803ce89cf268c18d
+run_name: fun-stork-716
+run_uuid: 48dd9fdc6eb147c9803ce89cf268c18d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689065417026
+status: 3
+tags: []
+user_id: Neeta Devke

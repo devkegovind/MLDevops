@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/8180f9479a344e4c967479ba780f1e1a/artifacts
+end_time: 1689065412125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8180f9479a344e4c967479ba780f1e1a
+run_name: victorious-dove-647
+run_uuid: 8180f9479a344e4c967479ba780f1e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689065406165
+status: 3
+tags: []
+user_id: Neeta Devke

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/1a4a644eae17452786e313e2dc590880/artifacts
+end_time: 1689065532704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a4a644eae17452786e313e2dc590880
+run_name: receptive-bat-118
+run_uuid: 1a4a644eae17452786e313e2dc590880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689065526174
+status: 3
+tags: []
+user_id: Neeta Devke

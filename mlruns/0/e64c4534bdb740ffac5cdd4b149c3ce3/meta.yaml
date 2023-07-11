@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/e64c4534bdb740ffac5cdd4b149c3ce3/artifacts
+end_time: 1689065627994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e64c4534bdb740ffac5cdd4b149c3ce3
+run_name: persistent-bug-200
+run_uuid: e64c4534bdb740ffac5cdd4b149c3ce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689065621032
+status: 3
+tags: []
+user_id: Neeta Devke

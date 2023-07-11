@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/a322906fd37c42b4ac3347b58f7292ae/artifacts
+end_time: 1689065487327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a322906fd37c42b4ac3347b58f7292ae
+run_name: powerful-mink-452
+run_uuid: a322906fd37c42b4ac3347b58f7292ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689065480886
+status: 3
+tags: []
+user_id: Neeta Devke

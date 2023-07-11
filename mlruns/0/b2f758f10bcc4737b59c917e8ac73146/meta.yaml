@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/b2f758f10bcc4737b59c917e8ac73146/artifacts
+end_time: 1689065601378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2f758f10bcc4737b59c917e8ac73146
+run_name: victorious-slug-668
+run_uuid: b2f758f10bcc4737b59c917e8ac73146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689065595110
+status: 3
+tags: []
+user_id: Neeta Devke

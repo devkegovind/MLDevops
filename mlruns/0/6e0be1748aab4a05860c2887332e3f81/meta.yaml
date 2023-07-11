@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLDevops/mlruns/0/6e0be1748aab4a05860c2887332e3f81/artifacts
+end_time: 1689065509142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e0be1748aab4a05860c2887332e3f81
+run_name: placid-pug-338
+run_uuid: 6e0be1748aab4a05860c2887332e3f81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689065503029
+status: 3
+tags: []
+user_id: Neeta Devke

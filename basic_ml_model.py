@@ -13,8 +13,6 @@ from sklearn.metrics import accuracy_score, roc_auc_score, mean_squared_error, m
 from sklearn.model_selection import train_test_split
 
 
-
-
 def get_data():
     URL = "D:\Downloads\wine+quality\winequality-red.csv"
 
@@ -24,18 +22,22 @@ def get_data():
     except Exception as e:
         raise e
 
+
 def evaluate(y_true, y_pred, pred_prob):
     '''mae = mean_absolute_error(y_true, y_pred)
     mse = mean_squared_error(y_true, y_pred)
     rmse = np.sqrt(mean_squared_error(y_true, y_pred))
     r2 = r2_score(y_true, y_pred)*100'''
+    
+    #return mae, mse, rmse, r2
+
 
     accuracy = accuracy_score(y_true, y_pred)*100
     roc_auc_score1 = roc_auc_score(y_true, pred_prob, multi_class = 'ovr')
 
     return accuracy, roc_auc_score1
 
-    #return mae, mse, rmse, r2
+    
 
 
 def main(n_estimators, max_depth):
@@ -72,6 +74,9 @@ def main(n_estimators, max_depth):
     mlflow.log_param("max_depth", max_depth)
     mlflow.log_metric('accuracy', accuracy)
     mlflow.log_metric('roc_auc_score', roc_auc_score1)
+
+    #MLFlow Model Logging
+    mlflow.sklearn.log_model(rf, "RandomForestModels")
 
     print(df)
     print()
